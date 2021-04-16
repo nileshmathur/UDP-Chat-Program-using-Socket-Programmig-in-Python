@@ -1,1 +1,1 @@
-# UDP-Chat-Program-using-Socket-Programmig-in-Python
+# UDP-Chat-Program-using-Socket-Programming-in-Python
